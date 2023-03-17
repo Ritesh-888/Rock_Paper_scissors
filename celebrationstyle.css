@@ -1,0 +1,199 @@
+
+
+
+
+
+#cutbutton{
+    position: absolute;
+    width: 24px;
+    height: 53px;
+    left: 1410px;
+    top: 286px;
+
+    font-family: 'Dangrek';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 79px;
+    z-index: 1;
+    border-color: transparent;
+    background-color: transparent;
+    color: #FFFFFF;
+    visibility: hidden;
+}
+
+#popup{
+    position: absolute;
+    width: 303px;
+    height: 367px;
+    left: 1150px;
+    top: 288px;
+    visibility: hidden;
+}
+
+#rulerect{
+  
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 119px;
+    height: 40px;
+    left: 1136px;
+    top: 675px;
+
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+}
+
+#rulebtn{
+    position: absolute;
+    width: 72px;
+    height: 20px;
+    left: 1150px;
+    top: 683px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.1em;
+    background-color: transparent;
+    border-color: transparent;
+    color: #FFFFFF;
+}
+
+
+
+#vector{
+    
+    position: absolute;
+    left: 38%;
+    right: 40.83%;
+    top: 25%;
+    bottom: 47.15%;
+
+    /* background: #FFD233; */
+}
+
+
+
+#group5{
+    position: absolute;
+    width: 504px;
+    height: 297px;
+    left: 388px;
+    top: 86px;
+
+}
+
+
+#rectr{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 119px;
+    height: 40px;
+    left: 1136px;
+    top: 675px;
+
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+}
+
+
+#btnr{
+    position: absolute;
+    width: 72px;
+    height: 20px;
+    left: 1150px;
+    top: 683px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.1em;
+    border-color: transparent;
+    background-color: transparent;
+    z-index: 1;
+    color: #FFFFFF;
+}
+
+
+#rect{
+    position: absolute;
+    width: 174px;
+    height: 44px;
+    left: 581px;
+    top: 639px;
+
+    background: #FFFFFF;
+    border-radius: 9px;
+}
+#hurray{
+    position: absolute;
+    width: 464px;
+    height: 86px;
+    left: 436px;
+    top: 422px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 91px;
+    line-height: 107px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    
+    color: #FFFFFF;
+}
+
+
+#playagainbutton{
+    position: absolute;
+    width: 99px;
+    height: 14px;
+    left: 608px;
+    top: 653px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.1em;
+    white-space: nowrap;
+    color: #6B6B6B;
+    border-color: transparent;
+    z-index: 1;
+}
+
+
+#youwonthegame{
+    position: absolute;
+    width: 457px;
+    height: 48px;
+    left: 442px;
+    top: 533px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 41px;
+    line-height: 48px;
+    /* identical to box height */
+    white-space: nowrap;
+    text-align: center;
+    letter-spacing: 0.1em;
+
+    color: #FFFFFF;
+}
+
+
+body{
+    
+
+    background: #8CC461;
+}
